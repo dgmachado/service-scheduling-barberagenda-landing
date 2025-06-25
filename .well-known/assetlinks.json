@@ -9,7 +9,7 @@
       ]
     },
     "site": "https://agendabarbeiro.com.br",
-    "paths": ["/app/*"]
+    "paths": ["/app/pro", "/app/pro/*"]
   },
   {
     "relation": ["delegate_permission/common.handle_all_urls"],
@@ -21,6 +21,6 @@
       ]
     },
     "site": "https://agendabarbeiro.com.br",
-    "paths": ["/app/*"]
+    "paths": ["/app/client", "/app/client/*"]
   }
 ]
